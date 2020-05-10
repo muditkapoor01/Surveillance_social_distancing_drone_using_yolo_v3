@@ -1,12 +1,12 @@
 # Surveillance_Social_Distancing_Drone_yolov3_master
 
-https://github.com/abhibothera/Surveillance_Social_Distancing_Drone_yolov3_master
+https://github.com/muditkapoor01/Surveillance_social_distancing_drone_using_yolo_v3
 
 
 Object counter is a toolkit that uses YOLO V3(you only look once version 3) algorithm. It makes an object detection on images/videos and count the number of objects present in the video coming from the camera on the drone.
 
 
-Video sample of the drone footage is uploaded here : https://www.youtube.com/watch?v=piEvitlra1Y
+Video sample of the drone footage is uploaded here : https://youtu.be/wvPZ25myVTE
 
 
 ![](./github_images/1.jpg)
